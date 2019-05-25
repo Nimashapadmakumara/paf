@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Shashini Nimasha\Desktop\shoppingcart\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3520104878.index
+735661438.index
+2767011275.index
+3625957687.index
+4178982548.index
+777033061.index
+1279175558.index
